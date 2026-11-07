@@ -21,7 +21,7 @@ Repository ini berisi dokumentasi kegiatan Proyek Workshop Day 1 yang diselengga
 
 ### 1. Rangkuman Materi
 [Tulis ringkasan materi yang disampaikan, misalnya:]
-- Materi 1 :Pengenalan Kurikulum Merdeka & MBKM di Perguruan Tinggi — Kebijakan yang memberikan hak belajar kepada mahasiswa hingga 2 semester (atau hingga 3 semester pada bagian penutup) di luar program studi dengan pengakuan setara 20 SKS per semester
+- Materi 1: Pengenalan Kurikulum Merdeka & MBKM di Perguruan Tinggi — Kebijakan yang memberikan hak belajar kepada mahasiswa hingga 2 semester (atau hingga 3 semester pada bagian penutup) di luar program studi dengan pengakuan setara 20 SKS per semester
 - Materi 2: Program Unggulan MSIB (Magang dan Studi Independen Bersertifikat) — Program kolaborasi dengan mitra industri yang memberikan pengalaman kerja nyata atau pembelajaran kompetensi spesifik selama 1 semester.
 
 ### 2. Poin Penting dan Pengetahuan Baru
