@@ -1,4 +1,4 @@
-# Day-1--17_Minecraft-_Adex-Ryo-Jerico
+# Day-1-17_Minecraft_Adex-Ryo-Jerico
 # Dokumentasi Workshop Day 1
 
 ## Identitas Peserta
